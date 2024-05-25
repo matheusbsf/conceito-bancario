@@ -1,0 +1,6 @@
+bin/software/recursoscontas/ContaPoupanca.class
+bin/software/recursoscontas/ContaCorrente.class
+bin/software/recursoscontas/Conta.class
+bin/software/clientes/Cliente.class
+bin/software/Software.class
+.vscode/settings.json
